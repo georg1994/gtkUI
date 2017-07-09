@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0BA2EFF7-68E6-4F52-B7FC-1FF17991D836}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GUI_graph/MainWindow.cs">
+    <Files>
+      <File FileName="GUI_graph/Program.cs" Line="16" Column="2" />
+      <File FileName="GUI_graph/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="GUI_graph/gtk-gui/generated.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GUI__graph PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
